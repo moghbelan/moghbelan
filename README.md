@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moghbelan
-- 👀 I’m learning coding to develop web..
-- 🌱 I’m currently learning to work with Html & CSS
+- 👀 I’m learning coding..
+-
 - 💞️ I’m looking for help
 - 📫 How to reach me nmoghbelan@yahoo.com
 
